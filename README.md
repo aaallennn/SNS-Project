@@ -1,2 +1,2 @@
 # SNS-Project
-Weather prediction based Prophet algorithm
+Weather prediction based on Prophet algorithm
